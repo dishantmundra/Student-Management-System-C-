@@ -1,0 +1,27 @@
+
+===== Student Management System =====
+1. Add Student
+2. Display All Students
+3. Search Student
+4. Delete Student
+5. Exit
+Enter your choice: 1
+
+Enter Roll Number: 101
+Enter Student Name: Rahul Sharma
+Enter Marks: 85
+Student added successfully!
+
+===== Student Management System =====
+1. Add Student
+2. Display All Students
+3. Search Student
+4. Delete Student
+5. Exit
+Enter your choice: 2
+
+----- Student Records -----
+Roll Number: 101
+Name: Rahul Sharma
+Marks: 85
+---------------------------
